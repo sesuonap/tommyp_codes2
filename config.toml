@@ -1,4 +1,4 @@
-baseurl                 = "https://tommyp.codes/"               # Your domain name. Must end with "/"
+baseurl                 = "https://github.com/sesuonap/tommyp_codes2"               # Your domain name. Must end with "/"
 languageCode            = "en-us"
 defaultContentLanguage  = "en"
 isMultilingual          = false

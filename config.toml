@@ -1,4 +1,4 @@
-baseurl                 = "http://tommyp.netlify.com/"               # Your domain name. Must end with "/"
+baseurl                 = "http://tommyp.codes/"               # Your domain name. Must end with "/"
 languageCode            = "en-us"
 defaultContentLanguage  = "en"
 isMultilingual          = false

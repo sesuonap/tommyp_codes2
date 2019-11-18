@@ -14,4 +14,4 @@ i went to school at flagler college, and graduated in 2017 with a bachelor of ar
 Outside of code I'm interested in sports, videogames, beer, and binge watching shows just to name a few. 
 When I'm not at the coffee shop typing away you can usually find me under a wave somewhere or on the hardwood getting buckets.   
 
-i am currently seeking opportunities in web development, you can find my contact information [here](/contact).
+i am currently employed by Miller Electric, you can find my contact information [here](/contact).
